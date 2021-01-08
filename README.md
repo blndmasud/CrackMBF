@@ -12,9 +12,13 @@
 
 <img src="https://github.com/Rayhan-Z75/CrackMBF/blob/main/ScriptMBF.png" />
 
-### Script
+### Menu
 ```
-• Crack ID Teman / Publik
+• Crack ID Indonesia
+• Crack ID Postingan Grup
+• Ambil ID
+• Ikuti Saya Di Facebook
+• Logout
 • Login Menggunakan Acces Token
 
 ```
