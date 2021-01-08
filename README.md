@@ -8,7 +8,7 @@
 <img src="https://github.com/Rayhan-Z75/CrackMBF/blob/main/Logo_Rayhan-Z75.png" />
 </h1>
 <h1 align="center">
-  ®️Script®️
+  ★Isi Script Ini★
 
 <img src="https://github.com/Rayhan-Z75/CrackMBF/blob/main/SS-Script-RayhanGanz.png" />
 
