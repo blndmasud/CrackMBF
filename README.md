@@ -11,7 +11,7 @@
   ®️Script®️
     
 
-<img src="https://github.com/Rayhan-Z75/CracmMBF/blob/main/SS-Script-RayhanGanz.png"
+<img src="https://github.com/Rayhan-Z75/CrackMBF/blob/main/SS-Script-RayhanGanz.png"
 
 ### Script
 ```
