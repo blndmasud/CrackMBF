@@ -10,7 +10,7 @@
 <h1 align="center">
   ★Tampilan Script Ini★
 
-<img src="https://github.com/Rayhan-Z75/CrackMBF/blob/main/SS-Script-RayhanGanz.png" />
+<img src="https://github.com/Rayhan-Z75/CrackMBF/blob/main/ScriptMBF.png" />
 
 ### Script
 ```
